@@ -10,7 +10,7 @@ students. Check them all out to learn what projects are of interest to you.
 
 [Professor Remi Chou's Lab](#professor-remi-chous-lab)
 
-[Visual Computing and Biometrics Security Lab](#Visual-Computing-and-Biometrics-Security-Lab-(VCBSL))
+[Visual Computing and Biometrics Security Lab](#visual-computing-and-biometrics-security-lab-vcbsl)
 
 
 [Software Analysis & Intelligence Laboratory (SAIL)](#software-analysis--intelligence-laboratory-sail)

@@ -2,7 +2,7 @@
 
 Students in the SFS program at Wichita State University are required to complete an approved
 cybersecurity project during their scholarship period. Students may choose to participate in a research
-project under the guidance of a faculty member at the School of Computing. 
+project under the guidance of a cybersecurity faculty member. 
 
 The following cybersecurity research labs are currently offering research opportunities for SFS
 students. Check them all out to learn what projects are of interest to you. 

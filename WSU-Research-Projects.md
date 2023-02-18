@@ -8,7 +8,7 @@ The following cybersecurity research labs are currently offering research opport
 students. Check them all out to learn what projects are of interest to you. 
 
 
-[Post-Quantum Information System Security Lab (Prof. Remi Chou)](#professor-remi-chous-lab)
+[Post-Quantum Information System Security Lab (Prof. Remi Chou)](#post-quantum-information-system-security-lab)
 
 [Visual Computing and Biometrics Security Lab (Prof. Ajita Rattani)](#visual-computing-and-biometrics-security-lab-vcbsl)
 
@@ -74,7 +74,7 @@ programming language. Experience with Python and Tensorflow for deep learning is
 desirable. Knowledge of finite fields would be a plus.  
 
 
-## Visual Computing and Biometrics Security Lab (VCBSL)
+## Visual Computing and Biometrics Security Lab (VCBSL) 
 Professor Ajita Rattani leads the Visual Computing and Biometrics Security Lab (VCBSL). Her research
 uses artificial intelligence (AI) to develop methods for biometrics-based person authentication
 in security applications. Students in her lab employ several AI methods to design the

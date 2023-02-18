@@ -8,23 +8,26 @@ The following cybersecurity research labs are currently offering research opport
 students. Check them all out to learn what projects are of interest to you. 
 
 
-[Professor Remi Chou's Lab](#professor-remi-chous-lab)
+[Post-Quantum Information System Security Lab (Prof. Remi Chou)](#professor-remi-chous-lab)
 
-[Visual Computing and Biometrics Security Lab](#visual-computing-and-biometrics-security-lab-vcbsl)
+[Visual Computing and Biometrics Security Lab (Prof. Ajita Rattani)](#visual-computing-and-biometrics-security-lab-vcbsl)
 
 
-[Software Analysis & Intelligence Laboratory (SAIL)](#software-analysis--intelligence-laboratory-sail)
+[SAIL: Software Analysis & Intelligence Laboratory (Prof. Zhijong Shan)](#software-analysis--intelligence-laboratory-sail)
 
-[Cyberphysical System Security Lab (CSSL)](#cyberphysical-system-security-lab-cssl)
+[CSSL: Cyberphysical System Security Lab (Prof. Salinas Monroy)](#cyberphysical-system-security-lab-cssl)
 
 [Professor Yumi Suzuki's Lab](#professor-yumi-suzukis-lab)
 
-## Professor Remi Chou's Lab
-Professor Remi Chou leads the [Lab Name]. His research focuses on post-quantum security and data privacy. 
-His research aims to build secure and privacy-preserving communication protocols able to counter
-cyber threats such as denial of service attacks, identity thefts, and data privacy breaches.
-The results of his research help secure emerging 6G communication networks, quantum communications
-networks, distributed data storage systems, and data management systems.
+[HCEA: WSU's Hub for Cybersecurity Education and Awareness (Joe Jabara, Prof. Salinas Monroy)]
+
+## Post-Quantum Information System Security Lab
+Professor Remi Chou leads the Post-Quantum Information System Security Lab. His research
+focuses on post-quantum security and data privacy.  His research aims to build secure and
+privacy-preserving communication protocols able to counter cyber threats such as denial of
+service attacks, identity thefts, and data privacy breaches.  The results of his research help
+secure emerging 6G communication networks, quantum communications networks, distributed data
+storage systems, and data management systems.
 
 You can find more information about Professor Chou [here](https://remichou.github.io/).
 
@@ -36,32 +39,40 @@ You can find more information about Professor Chou [here](https://remichou.githu
 
 ![Testbed to evaluate secure wireless communications protocols](wireless-net.jpg)
 
-![Threat Model for a Wireless Eavesdropper](wireless-channel.jpg)
-
 ![A Deep Neural Network for Secure Wireless Communications](wireless-dnn.png)
 
 ### Potential Projects for Incoming SFS students at Professor Chou's Lab
 Incoming SFS students will have the opportunity to participate in the projects listed below. 
 
 #### Deep learning for distributed data storage​
-Project description goes here
+The ubiquity of networked communication systems in our society raises ever-growing security and
+privacy concerns. In particular, such concerns exist for applications that collect private user
+information, as in health monitoring, e-commerce, and financial services, and applications
+associated with critical infrastructures, such as transportation, smart grids, or process
+supervisory management systems. This project aims to explore how deep learning can provide a
+learning framework for distributed storage that avoids having a single point of failure and
+hence losing private data in its entirety in the case of a security breach.
 
-**Useful skills to have for this project:** List a few skills that students need for this project. This
-will help them make a case in their research interest when they talk about the skills they have. 
+**Useful skills to have for this project:** Good knowledge of basic probability theory and a
+programming language. Experience with Python and Tensorflow for deep learning is highly
+desirable.
 
+#### Deep learning for secret-key sharing in wireless networks​
+The omnipresence of communication networks and the increasing number of connected users and devices
+create challenges related to information security and data privacy. Most designs of current security
+solutions are attack-specific and rely on the assumption of computationally limited opponents.
+Consequently, systems constantly need to be updated to keep up with the increasing computational power
+offered by computers, as well as, always more creative attacks from hackers. A paradigm called
+information-theoretic security aims at obtaining security guarantees that hold for any possible strategy
+of attack performed by an opponent with unlimited computational power. While several theoretical studies
+support this paradigm, the development of practical implementations of information-theoretic secure
+methods is still in its infancy. The goal of this project is the implementation of information-theoretic
+methods via deep learning for secret-key generation.
 
-#### Deep learning for secret sharing in wireless networks​
-Project description goes here
+**Useful skills to have for this project:** Good knowledge of basic probability theory and a
+programming language. Experience with Python and Tensorflow for deep learning is highly
+desirable. Knowledge of finite fields would be a plus.  
 
-**Useful skills to have for this project:** List a few skills that students need for this project. This
-will help them make a case in their research interest when they talk about the skills they have. 
-
-
-#### Secure communication in the presence of compromised nodes in wireless networks​
-Project description goes here
-
-**Useful skills to have for this project:** List a few skills that students need for this project. This
-will help them make a case in their research interest when they talk about the skills they have. 
 
 ## Visual Computing and Biometrics Security Lab (VCBSL)
 Professor Ajita Rattani leads the Visual Computing and Biometrics Security Lab (VCBSL). Her research

@@ -126,17 +126,28 @@ You can find more information about Professor Shan's research [here](https://www
 ### Potential Projects for Incoming SFS students at SAIL
 Incoming SFS students will have the opportunity to participate in the projects listed below. 
 
-#### Automated Dynamic Analysis for Smart Device Malware Hiding Mechanisms
-Project description goes here
+#### Privacy protection of Online Personal Data (OPD). 
+OPD is collected from a mobile app, browser, desktop app, smart device or IoT device and then
+stored into a backend server. Users input OPD when creating an account, completing a user
+profile, filling a purchase order, etc. Apps also directly collect OPD from mobile phone,
+IoT device or laptop computer. However, apps and other online services do not always follow
+collection, deletion and sharing policies that are consistent with current legislation. In this project,
+students will investigate OPD privacy protection and detection approaches. 
 
-**Useful skills to have for this project:** List a few skills that students need for this project. This
-will help them make a case in their research interest when they talk about the skills they have. 
+**Useful skills to have for this project:** Java and/or Python programming experience. Machine
+learning/NLP knowledge is highly desirable.   
 
-#### Automated detection of security and privacy issues in mobile applications
-Project description goes here
+#### Cyber-security of smart microgrids. 
+In smart grids, the cyber system and physical process are tightly coupled. Due to the cyber
+system's vulnerabilities, any cyber incidents can have economic and physical impacts on their
+operations. In power electronics-intensive smart microgrids, cyber-attacks can have much more
+harmful and devastating effects on their operation and stability due to low inertia, especially
+in islanded operation. In this project, we will develop techniques to protect smart microgrids
+against side-channel attacks.
 
-**Useful skills to have for this project:** List a few skills that students need for this project. This
-will help them make a case in their research interest when they talk about the skills they have. 
+
+**Useful skills to have for this project:** Experience in a programming language. 
+Knowledge of intrusion detection methods is highly desirable. 
 
 
 ## Cyberphysical System Security Lab (CSSL)
@@ -243,7 +254,9 @@ Students will learn the type of PET most appropriate for protecting victims of i
 violence. Students will also propose procedures for implementing PETs in a local organization’s
 network.
 
-**Useful skills to have for this project:** 
+**Useful skills to have for this project:** Experience with a programming language. Knowledge
+of criminal procedure is a plus. Interest in learning how to investigate cybercrime is highly
+desirable. Taking CJ 320, CJ 315, or CJ 435 is a plus. 
 
 #### Profiling Ransomware-as-a-Service Creators and Users​ 
 Ransomware-as-a-Service (RaaS) is a growing problem for businesses and law enforcement. For
@@ -252,7 +265,11 @@ enforcement, limited resources and undertrained investigators may hinder the pro
 most ransomware creators and users. In this project, students will investigate the demographic,
 psychological, and other types of profiles that are common across RaaS criminals. 
 
-**Useful skills to have for this project:**
+**Useful skills to have for this project:** Experience with a programming language is required. Basic
+knowledge of networks is a plus. Knowledge
+of criminal procedure is a plus. Interest in learning how to investigate cybercrime is highly
+desirable. Taking CJ 320, CJ 315, or CJ 435 is a plus. 
+
 
 #### Cybersecurity Training for Seniors: Training the Trainers
 

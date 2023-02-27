@@ -94,16 +94,9 @@ You can find out more about Professor Rattani's research [here](https://www.wich
 Incoming SFS students will have the opportunity to participate in the projects listed below. 
 
 #### Multimodal Audio-Visual based Deepfake Detection
-Description goes here. 
 
-**Useful skills to have for this project:** List a few skills that students need for this project. This
-will help them make a case in their research interest when they talk about the skills they have. 
 
 #### Improving Cross-dataset Generalization of Facial Spoofing Detection
-Description goes here.
-
-**Useful skills to have for this project:** List a few skills that students need for this project. This
-will help them make a case in their research interest when they talk about the skills they have. 
 
 
 ## Software Analysis & Intelligence Laboratory (SAIL)

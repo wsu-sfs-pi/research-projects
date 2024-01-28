@@ -4,8 +4,7 @@ Students in the SFS program at Wichita State University are required to complete
 cybersecurity project during their scholarship period. Students may choose to participate in a research
 project under the guidance of a cybersecurity faculty member. 
 
-The following cybersecurity research labs are currently offering research opportunities for SFS
-students. Check them all out to learn what projects are of interest to you. 
+The following is a list of past projects. Use this to find what activities/experiences you had in the past that can help you complete *similar* projects. 
 
 
 [Post-Quantum Information System Security Lab (Prof. Remi Chou)](#post-quantum-information-system-security-lab)
